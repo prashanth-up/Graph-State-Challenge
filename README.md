@@ -4,7 +4,7 @@ This is the repository for the IBM Quantum Awards: Open Science Prize. You can r
 
 # Objective
 
-1. **Creating larger graph states with better fidelity** Graph states entangle all involved qubits, and these entangled quantum states could be important for various applications, particularly those related to error correction, in the near future. The goal here is to create the largest graph states using the same benchmarking and error mitigation techniques that are also used to improve the individual quantum gates, ultimately looking for the best fidelity graph state with at least a 50% reduction in the infidelity as estimated by stabilizer measurements outlined in [this Jupyter notebook](ibmquantum-graph-states-challenge.ipynb). **Award: $50,000**
+1. **Creating larger graph states with better fidelity** Graph states entangle all involved qubits, and these entangled quantum states could be important for various applications, particularly those related to error correction, in the near future. The goal here is to create the largest graph states using the same benchmarking and error mitigation techniques that are also used to improve the individual quantum gates, ultimately looking for the best fidelity graph state with at least a 50% reduction in the infidelity as estimated by stabilizer measurements outlined in [this Jupyter notebook](solution-ibmquantum-graph-states-challenge.ipynb).
 
 # Open Science
 
